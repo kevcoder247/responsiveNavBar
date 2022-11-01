@@ -18,6 +18,8 @@ navToggle.addEventListener('click', function(){
   // }else{
   //   links.classList.add('show-links');
   // }
+
+  //This accomplishes what the if statment does in one line
   links.classList.toggle('show-links')
 
 })
